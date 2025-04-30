@@ -37,10 +37,6 @@ PM25_Forecasting_Project/
 │   ├── train_lstm.py
 │   ├── train_bilstm.py
 │   └── train_bilstm_xgb.py
-├── models/
-│   └── model_definitions.py
-├── utils/
-│   └── helper_functions.py
 └── outputs/
     └── plots/
 ```

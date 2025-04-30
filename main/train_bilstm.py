@@ -156,3 +156,4 @@ def main_cpu(file_path):
     evaluate_from_raw(model, x_val, y_val, scaler_y, label="Validation Set")
     evaluate_from_raw(model, x_test, y_test, scaler_y, label="Test Set")
 
+main_cpu("Please replace this with your own file path")

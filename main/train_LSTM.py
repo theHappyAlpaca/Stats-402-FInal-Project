@@ -55,7 +55,7 @@ def visualize_results(y_true, y_pred, set_name):
 # Load Data 
 
 # Path to the Excel dataset
-file_path = '/Users/jiangzezhen/Desktop/Stats_402/CODE/4 AI/2223NEWDATA.xlsx'
+file_path = 'Please replace this with your own file path'
 data = pd.read_excel(file_path)
 
 # Select input and output features
